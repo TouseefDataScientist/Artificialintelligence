@@ -1,6 +1,7 @@
 Machine Learning:
 Machine learning (ML) is a branch of artificial intelligence (AI) and computer science that focuses on the using data and algorithms to enable AI to imitate the way that humans learn, gradually improving its accuracy.
 Types of machine learning:
-1) supervised.
-2) unsupervised.
+1) Supervised.
+2) Un-Supervised.
 3) Reinforcement.
+Edited by Joshva
