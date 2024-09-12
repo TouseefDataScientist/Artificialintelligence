@@ -23,4 +23,4 @@ This course is three months starting in 2nd September 2024 and ending on 3rd Dec
 
 ## Instructor
 
-Touseef Ahmed Abbasi | [LinkedIn](https://pk.linkedin.com/in/touseef-ahmed-gold-medalist-5a8586229) | [GitHub](https://github.com/TouseefDataScientist)
+Touseef Ahmed Abbasi | [LinkedIn](https://pk.linkedin.com/in/touseef-ahmed-gold-medalist-5a8586229) | [GitHub](https://github.com/TouseefDataScientist)i
