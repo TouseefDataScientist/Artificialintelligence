@@ -19,4 +19,4 @@ This repository is for the students of AI/ML course offered by **Technical Educa
 
 ## Course Description
 
-This course is three months starting in September 2024 and ending on December 2024.
+This course is three months starting in 2nd September 2024 and ending on December 2024.
