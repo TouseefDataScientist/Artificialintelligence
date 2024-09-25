@@ -1,4 +1,4 @@
-# Artificial intelligence and Machine Learning
+# Artificial Intelligence and Machine Learning
 
 This repository is for the students of AI/ML course offered by **Technical Education and Vocational Training Authority**.
 
@@ -10,7 +10,7 @@ This repository is for the students of AI/ML course offered by **Technical Educa
 
 ## Course Modules
 
-1. Artificial intelligence
+1. Artificial Intelligence
 2. Machine Learning
 3. Deep Learning
 4. Computer Vision
