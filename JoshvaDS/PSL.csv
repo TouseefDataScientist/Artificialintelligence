@@ -1,25 +1,25 @@
 Player,Runs,Balls,4s,6s,Strike_Rate,Team,Opposition,Ground,Match Date
-CA Ingram,127*,59,12,8,215.25,Kings,v Gladiators,Sharjah,24-Feb-19
+CA Ingram,127*,59,,8,215.25,Kings,v Gladiators,Sharjah,24-Feb-19
 CS Delport,117*,60,13,6,195,United,v Qalandars,Karachi,9-Mar-19
-Sharjeel Khan,117,62,12,8,188.7,United,v Zalmi,Dubai (DSC),21-Feb-16
+Sharjeel Khan,,6,12,8,188.7,United,v Zalmi,Dubai (DSC),21-Feb-16
 CA Lynn,113*,55,12,8,205.45,Qalandars,v Sultans,Lahore,15-Mar-20
-Kamran Akmal,107*,61,11,7,175.4,Zalmi,v Qalandars,Sharjah,16-Mar-18
-Kamran Akmal,104,65,6,7,160,Zalmi,v Kings,Dubai (DSC),3-Mar-17
+Kamran Akmal,107*,61,11,,175.4,Zalmi,v Qalandars,Sharjah,16-Mar-18
+Kamran Akmal,104,65,,7,160,Zalmi,v Kings,Dubai (DSC),3-Mar-17
 Kamran Akmal,101,55,13,4,183.63,Zalmi,v Gladiators,Karachi,22-Feb-20
-RR Rossouw,100*,44,10,6,227.27,Sultans,v Gladiators,Multan,29-Feb-20
+RR Rossouw,100*,44,,6,227.27,Sultans,v Gladiators,Multan,29-Feb-20
 BR Dunk,99*,40,3,12,247.5,Qalandars,v Kings,Lahore,8-Mar-20
-Ahmed Shehzad,99,57,8,6,173.68,Gladiators,v Kings,Karachi,10-Mar-19
+Ahmed Shehzad,99,57,,6,173.68,Gladiators,v Kings,Karachi,10-Mar-19
 Mohammad Hafeez,98*,57,7,7,171.92,Qalandars,v United,Lahore,23-Feb-20
-L Ronchi,94*,39,12,5,241.02,United,v Kings,Dubai (DSC),18-Mar-18
+L Ronchi,94*,39,12,,241.02,United,v Kings,Dubai (DSC),18-Mar-18
 Fakhar Zaman,94,50,9,6,188,Qalandars,v Gladiators,Sharjah,14-Mar-18
 Umar Akmal,93,40,6,8,232.5,Qalandars,v Gladiators,Dubai (DSC),8-Feb-16
 BR Dunk,93,43,3,10,216.27,Qalandars,v Gladiators,Lahore,3-Mar-20
-SR Watson,91*,55,6,6,165.45,Gladiators,v Zalmi,Abu Dhabi,4-Mar-19
+SR Watson,91*,55,6,6,,Gladiators,v Zalmi,Abu Dhabi,4-Mar-19
 SR Watson,90*,58,5,7,155.17,Gladiators,v Kings,Dubai (DSC),8-Mar-18
 KP Pietersen,88*,42,3,8,209.52,Gladiators,v Qalandars,Sharjah,18-Feb-17
 Kamran Akmal,88,48,6,6,183.33,Zalmi,v United,Dubai (DSC),9-Feb-17
 C Munro,87*,59,8,3,147.45,United,v Qalandars,Lahore,4-Mar-20
-LJ Wright,86*,53,11,4,162.26,Gladiators,v United,Dubai (DSC),4-Feb-16
+LJ Wright,86*,53,11,4,,Gladiators,v United,Dubai (DSC),4-Feb-16
 Kamran Akmal,86,48,10,5,179.16,Zalmi,v Kings,Karachi,11-Mar-19
 BJ Hodge,85*,45,6,6,188.88,Zalmi,v Kings,Dubai (DSC),17-Feb-16
 Sohaib Maqsood,85*,42,4,7,202.38,Sultans,v Zalmi,Dubai (DSC),6-Mar-18
@@ -31,12 +31,12 @@ Tamim Iqbal,80*,58,6,3,137.93,Zalmi,v United,Sharjah,12-Feb-16
 EJG Morgan,80*,57,8,3,140.35,Zalmi,v Kings,Dubai (DSC),10-Feb-17
 AD Hales,80*,48,6,5,166.66,Kings,v Qalandars,Lahore,8-Mar-20
 SR Watson,80,41,7,7,195.12,Gladiators,v Sultans,Multan,29-Feb-20
-Sharjeel Khan,79*,43,5,7,183.72,United,v Qalandars,Sharjah,10-Feb-16
-JL Denly,79*,46,9,4,171.73,Kings,v Zalmi,Lahore,21-Mar-18
+Sharjeel Khan,79*,43,5,,183.72,United,v Qalandars,Sharjah,10-Feb-16
+JL Denly,79*,46,,4,171.73,Kings,v Zalmi,Lahore,21-Mar-18
 SR Watson,79,47,4,7,168.08,United,v Qalandars,Sharjah,10-Feb-16
 SW Billings,78*,50,8,3,156,United,v Gladiators,Sharjah,15-Feb-17
 CS Delport,78,61,6,3,127.86,Qalandars,v Zalmi,Sharjah,13-Feb-16
-JL Denly,78,55,10,2,141.81,Kings,v Sultans,Dubai (DSC),10-Mar-18
+JL Denly,78,55,10,,141.81,Kings,v Sultans,Dubai (DSC),10-Mar-18
 Babar Azam,78,56,7,2,139.28,Kings,v Zalmi,Karachi,21-Feb-20
 Mohammad Hafeez,77,47,5,6,163.82,Zalmi,v Gladiators,Sharjah,28-Feb-17
 L Ronchi,77,41,5,6,187.8,United,v Qalandars,Dubai (DSC),8-Mar-18
@@ -44,7 +44,7 @@ Kamran Akmal,77,27,5,8,285.18,Zalmi,v Kings,Lahore,21-Mar-18
 Babar Azam,77,59,6,1,130.5,Kings,v Sultans,Dubai (DSC),15-Feb-19
 Shadab Khan,77,42,5,4,183.33,United,v Zalmi,Rawalpindi,7-Mar-20
 RR Rossouw,76*,53,7,3,143.39,Gladiators,v Kings,Dubai (DSC),11-Feb-17
-Umar Akmal,75*,50,7,3,150,Gladiators,v Zalmi,Dubai (DSC),15-Feb-19
+Umar Akmal,75*,50,,3,150,Gladiators,v Zalmi,Dubai (DSC),15-Feb-19
 Kamran Akmal,75,51,3,6,147.05,Zalmi,v Kings,Sharjah,15-Mar-18
 Sohail Akhtar,75,34,8,5,220.58,Qalandars,v United,Karachi,9-Mar-19
 Sharjeel Khan,74*,59,5,5,125.42,Kings,v Qalandars,Karachi,12-Mar-20
