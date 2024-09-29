@@ -1,0 +1,67 @@
+ID,Name,Age,Gender,Occupation,Salary,City,Country,Join_Date,Active
+1,Alice,28,Female,Engineer,70000,New York,USA,2020-01-15,True
+2,Bob,34,Male,Designer,65000,Los Angeles,USA,2019-03-22,True
+3,Charlie,29,Male,Teacher,50000,Chicago,USA,2021-07-30,False
+4,David,42,Male,Manager,80000,Houston,USA,2018-12-11,True
+5,Eve,36,Female,Scientist,72000,San Francisco,USA,2022-05-18,True
+6,Frank,30,Male,Developer,75000,Seattle,USA,2020-08-24,True
+7,Grace,27,Female,Artist,48000,Denver,USA,2021-11-05,False
+8,Henry,38,Male,Architect,90000,Boston,USA,2017-04-17,True
+9,Ivy,45,Female,Manager,85000,Philadelphia,USA,2019-06-21,True
+10,Jack,32,Male,Marketing,60000,Atlanta,USA,2022-09-10,True
+11,Kate,31,Female,Engineer,71000,San Diego,USA,2020-03-14,True
+12,Liam,27,Male,Sales,49000,Orlando,USA,2023-01-02,False
+13,Mia,34,Female,Doctor,120000,Miami,USA,2016-05-09,True
+14,Nate,29,Male,Chef,55000,New Orleans,USA,2018-10-29,True
+15,Olivia,26,Female,Scientist,72000,San Jose,USA,2021-02-15,True
+16,Paul,40,Male,Engineer,95000,Austin,USA,2017-07-12,True
+17,Quinn,33,Female,Developer,68000,Las Vegas,USA,2020-12-19,True
+18,Ruby,39,Female,Designer,60000,Portland,USA,2019-09-01,True
+19,Sam,28,Male,Analyst,60000,Nashville,USA,2022-03-30,False
+20,Tina,35,Female,Teacher,55000,Charlotte,USA,2021-06-05,True
+21,Uma,29,Female,Manager,70000,Seattle,USA,2020-01-23,True
+22,Vin,30,Male,Developer,78000,San Francisco,USA,2018-08-12,True
+23,Wade,36,Male,Marketing,60000,Chicago,USA,2019-04-11,False
+24,Xena,27,Female,Artist,47000,Denver,USA,2022-11-25,True
+25,Yara,31,Female,Engineer,72000,Miami,USA,2020-09-17,True
+26,Zack,38,Male,Architect,90000,Houston,USA,2016-12-14,True
+27,Alice,28,Female,Scientist,78000,Philadelphia,USA,2023-03-28,True
+28,Bob,34,Male,Teacher,50000,Los Angeles,USA,2022-07-30,False
+29,Charlie,29,Male,Designer,62000,Atlanta,USA,2020-02-02,True
+30,David,42,Male,Manager,85000,Boston,USA,2018-05-11,True
+31,Eve,36,Female,Chef,49000,New York,USA,2017-09-15,False
+32,Frank,30,Male,Developer,75000,San Diego,USA,2019-11-01,True
+33,Grace,27,Female,Artist,48000,Chicago,USA,2021-10-19,False
+34,Henry,38,Male,Architect,90000,Houston,USA,2016-12-14,True
+35,Ivy,45,Female,Manager,85000,Miami,USA,2019-05-22,True
+36,Jack,32,Male,Marketing,60000,Orlando,USA,2022-09-10,True
+37,Kate,31,Female,Engineer,71000,San Francisco,USA,2020-03-14,True
+38,Liam,27,Male,Sales,49000,Atlanta,USA,2021-12-04,False
+39,Mia,34,Female,Doctor,120000,Nashville,USA,2017-01-18,True
+40,Nate,29,Male,Chef,55000,Charlotte,USA,2022-10-25,True
+41,Olivia,26,Female,Scientist,72000,Seattle,USA,2020-06-22,True
+42,Paul,40,Male,Engineer,95000,Austin,USA,2018-04-10,True
+43,Quinn,33,Female,Developer,68000,Las Vegas,USA,2019-07-30,True
+44,Ruby,39,Female,Designer,60000,Denver,USA,2022-01-09,True
+45,Sam,28,Male,Analyst,60000,Houston,USA,2021-08-12,False
+46,Tina,35,Female,Teacher,55000,Philadelphia,USA,2020-11-25,True
+47,Uma,29,Female,Manager,70000,Miami,USA,2023-01-03,True
+48,Vin,30,Male,Developer,78000,San Francisco,USA,2018-03-19,True
+49,Wade,36,Male,Marketing,60000,Los Angeles,USA,2019-12-08,False
+50,Xena,27,Female,Artist,47000,Chicago,USA,2022-09-15,True
+51,Yara,31,Female,Engineer,72000,San Diego,USA,2020-06-11,True
+52,Zack,38,Male,Architect,90000,Boston,USA,2017-05-28,True
+53,Alice,28,Female,Scientist,78000,Orlando,USA,2023-04-21,True
+54,Bob,34,Male,Teacher,50000,Nashville,USA,2022-02-10,False
+55,Charlie,29,Male,Designer,62000,Atlanta,USA,2020-05-03,True
+56,David,42,Male,Manager,85000,Houston,USA,2018-12-11,True
+57,Eve,36,Female,Chef,49000,Philadelphia,USA,2019-11-30,False
+58,Frank,30,Male,Developer,75000,San Diego,USA,2020-10-01,True
+59,Grace,27,Female,Artist,48000,Denver,USA,2021-08-16,False
+60,Henry,38,Male,Architect,90000,Boston,USA,2016-03-27,True
+61,Ivy,45,Female,Manager,85000,Miami,USA,2022-05-18,True
+62,Jack,32,Male,Marketing,60000,Chicago,USA,2020-04-30,True
+63,Kate,31,Female,Engineer,71000,San Francisco,USA,2021-02-20,True
+64,Liam,27,Male,Sales,49000,Los Angeles,USA,2023-06-14,False
+65,Mia,34,Female,Doctor,120000,Orlando,USA,2017-09-08,True
+66,Nate,29,Male,Chef,55000,Nashville,USA,2022
